@@ -91,13 +91,13 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./sessions`)
 > *USE IT TO DEPLOY YOUR BOT.*
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••
-❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: youtube.com/@giftedtechnexus
-❒ 𝐎𝐰𝐧𝐞𝐫: t.me/giftedmd
-❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l
-❒ 𝐆𝐢𝐭𝐡𝐮𝐛: https://github.com/mouricedevs
-❒ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: Gifted Tech
+❒ 𝗥𝗘𝗣𝗢: https://github.com/Toxic1239/RIASGREMORYV2
+❒ 𝐎𝐰𝐧𝐞𝐫: https://t.me/Toxxicn_bot
+❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U
+❒ 𝐆𝐢𝐭𝐡𝐮𝐛: https://github.com/Toxic1239
+❒ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: 𝗧𝗼𝘅𝘅𝗶𝗰
 ╚═══════════════╝
- *𝗚𝗜𝗙𝗧𝗘𝗗-𝗠𝗗 𝗩𝟱💜💜💜*
+ *Rias Gremory V2*
 ___________________________
 - Don't Forget To Fork and Give a Star⭐ To My Repo.
 - Check Out the YouTube Channel Above for Tutorials.\n\n ` }, {quoted: xeonses});
